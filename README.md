@@ -61,3 +61,5 @@ __Construction of the FEN string:__ build the FEN string according to the standa
 - Make more precise the segmentation of the chessboard, also in cases in which the black frame is not perfectly intact due to image conditions
 - Find another method faster and more precise for identify the chessboard's orientation instead for _template matching_
 - Increase the dataset to reduce the number of pieces not classified correctly
+
+_More infos, descriptions and visual steps with images in the PDF file "Presentazione.pdf" (in italian)_
